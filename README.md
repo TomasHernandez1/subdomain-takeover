@@ -7,4 +7,10 @@ subdomain-takeover is a program designed to check for the Subdomain Takeover vul
 - Supports batch domain checks from a file
 
 # Usage
+1. Create a text file with the domains you want to check (one per line), for example domains.txt:
+example.com
+test.com
+domain.org
+
+2. Run the script and pass the file as an argument:
 python3 subdomain_takeover.py <domains.txt>
