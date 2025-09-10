@@ -10,8 +10,8 @@ subdomain-takeover is a program designed to check for the Subdomain Takeover vul
 1. Create a text file with the domains you want to check (one per line), for example domains.txt:
 
 example.com
-test.com
-domain.org
+\ntest.com
+\ndomain.org
 
 5. Run the script and pass the file as an argument:
 ```bash
