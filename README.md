@@ -13,11 +13,13 @@ test.com
 domain.org
 
 2. Run the script and pass the file as an argument:
+```bash
 python3 subdomain_takeover.py <domains.txt>
+```
 
 # Output example
+```bash
 Checking domain: example.com
-
 sub.example.com: 2025-07-10
-
 sub2.example.com: 2023-05-01 SUBDOMAIN TAKEOVER!
+```
