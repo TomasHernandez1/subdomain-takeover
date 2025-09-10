@@ -17,5 +17,7 @@ python3 subdomain_takeover.py <domains.txt>
 
 # Output example
 Checking domain: example.com
+
 sub.example.com: 2025-07-10
+
 sub2.example.com: 2023-05-01 SUBDOMAIN TAKEOVER!
