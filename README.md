@@ -8,6 +8,7 @@ subdomain-takeover is a program designed to check for the Subdomain Takeover vul
 
 # Usage
 1. Create a text file with the domains you want to check (one per line), for example domains.txt:
+
 example.com
 test.com
 domain.org
